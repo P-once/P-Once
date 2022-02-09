@@ -1,5 +1,7 @@
 ### HOla 👋
 
+![](cooltext404054827506546.png)
+
 
 - 🔭 Estudio la Ingeneria de Sistemas Computacionales en el Tec
 - 🌱 Me gusta aprender e investigar sobre temas aleatorios de mi interes.
