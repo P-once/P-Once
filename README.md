@@ -16,8 +16,8 @@
 |-----------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | _12:00_   | Simulacion        | Simulacion        | Simulacion        | Simulacion        | Simulacion        |
 | _1:00_    | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     |
-| _2:00_    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |
+| _2:00_    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |                   |
 | _3:00_    | Redes             | Redes             | Redes             | Redes             | Redes             |
-| _4:00_    | Taller SO         | Taller SO         | Taller SO         | Taller SO         | Taller SO         |
+| _4:00_    | Taller SO         | Taller SO         | Taller SO         | Taller SO         |                   |
 | _5:00_    | Leng. y automatas | Leng. y automatas | Leng. y automatas | Leng. y automatas | Leng. y automatas |
 | _6:00_    | Admin. BDD        | Admin. BDD        | Admin. BDD        | Admin. BDD        | Admin. BDD        |
