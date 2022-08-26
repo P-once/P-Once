@@ -14,10 +14,10 @@
 
 | _Horario_ | _Lunes_           | _Martes_          | _Miercoles_       | _Jueves_          | _Viernes_         |
 |-----------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| _12:00_   | Taller de inv.        | Taller de inv.         | Taller de inv.         | Taller de inv.         | Taller de inv.         |
-| _1:00_    | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     |
-| _2:00_    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |                   |
-| _3:00_    | Redes             | Redes             | Redes             | Redes             | Redes             |
-| _4:00_    | Taller SO         | Taller SO         | Taller SO         | Taller SO         |                   |
-| _5:00_    | Leng. y automatas | Leng. y automatas | Leng. y automatas | Leng. y automatas | Leng. y automatas |
-| _6:00_    | Admin. BDD        | Admin. BDD        | Admin. BDD        | Admin. BDD        | Admin. BDD        |
+| _12:00_   | Taller de investigacion       | Taller de investigacion          | Taller de investigacion          | Taller de investigacion          |            |
+| _1:00_    | Gestion de proy Software     | Gestion de proy Software     | Gestion de proy Software     | Gestion de proy Software    | Gestion de proy Software     |
+| _2:00_    | Programacion logica y funcional    | Programacion logica y funcional    | Programacion logica y funcional    | Programacion logica y funcional    | Gestion de proy Software                  |
+| _3:00_    | Lenguajes y Automatas II             | Lenguajes y Automatas II             | Lenguajes y Automatas II             | Lenguajes y Automatas II             | Lenguajes y Automatas II             |
+| _4:00_    | Sistemas programables         | Sistemas programables         | Sistemas programables         | Sistemas programables         |                   |
+| _5:00_    | Enrutamiento de Redes | Enrutamiento de Redes | Enrutamiento de Redes | Enrutamiento de Redes | Enrutamiento de Redes |
+| _6:00_    | Programacion web        | Programacion web        |Programacion web        | Programacion web        | Programacion web        |
