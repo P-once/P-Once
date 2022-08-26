@@ -14,7 +14,7 @@
 
 | _Horario_ | _Lunes_           | _Martes_          | _Miercoles_       | _Jueves_          | _Viernes_         |
 |-----------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| _12:00_   | Simulacion        | Simulacion        | Simulacion        | Simulacion        | Simulacion        |
+| _12:00_   | Taller de inv.        | Taller de inv.         | Taller de inv.         | Taller de inv.         | Taller de inv.         |
 | _1:00_    | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     | Ing. Software     |
 | _2:00_    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |                   |
 | _3:00_    | Redes             | Redes             | Redes             | Redes             | Redes             |
