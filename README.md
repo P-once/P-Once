@@ -9,7 +9,7 @@
 
 - 🔭 Estudio la Ingeneria de Sistemas Computacionales en el Tec
 - 🌱 Me gusta aprender e investigar sobre temas aleatorios de mi interes.
-- 👯 Tambien me gusta jugar video juegos y lo hago en mis ratos libres.
+- 👯 Tambien me gusta jugar video juegos y lo hago en mis ratos libres (ya no hay ratos libres :c).
 - 📫 Andres.ponce193@tectijuana.edu.mx
 
 | _Horario_ | _Lunes_           | _Martes_          | _Miercoles_       | _Jueves_          | _Viernes_         |
